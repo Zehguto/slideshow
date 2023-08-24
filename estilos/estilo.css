@@ -1,0 +1,92 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    background-color:#121212;
+    
+}
+.head {    
+    background-color:#1B1B1B;
+    position: fixed;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+.link {
+    margin: 0;
+}
+.link a{
+    color: #5CE1E6;
+    padding-left: 2rem;
+}
+.img-logo-container{
+    flex: 1;
+    text-align: center;
+    padding: 0;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    width: 100%;
+
+}
+.menu li{
+    margin: 0;
+}
+.logo {
+    height: auto;
+    width: 5rem;
+    margin-right: 4rem;
+}
+
+.principal {
+    background-color:#121212;
+    text-align: center;
+    padding: 1rem;
+}
+
+.img-container{
+    clear: both;
+    text-align: center;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    padding: 1rem ;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    margin-top: 5rem;
+
+}
+
+p{
+    color: #5CE1E6;
+}
+.btn-container{
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.btn {
+    background-color:  #121212;
+    border: none;
+    font-size: 16px;
+    padding: 10px 40px;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.btn:hover {
+    box-shadow: 0px 0px 10px rgba(0, 200, 255, 0.3);
+}
