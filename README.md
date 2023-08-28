@@ -1,4 +1,6 @@
-![image](https://github.com/Zehguto/slideshow/assets/101606400/71861ae9-e6cd-4bad-abad-1c5867d90bae)# Projeto de Desenvolvimento Web: Site com Slideshow e Botões de Navegação
+![image](https://github.com/Zehguto/slideshow/assets/101606400/71861ae9-e6cd-4bad-abad-1c5867d90bae)
+
+## Projeto de Desenvolvimento Web: Site com Slideshow e Botões de Navegação
 
 Bem-vindo ao repositório do projeto de desenvolvimento web realizado para a aula de Desenvolvimento Web. Neste projeto, criamos um site interativo com um slideshow de imagens e botões de navegação "Antecessor" e "Sucessor".
 
@@ -19,9 +21,6 @@ Este projeto tem como objetivo demonstrar habilidades essenciais de desenvolvime
 - CSS: Estilizamos o layout do site usando CSS para criar uma aparência agradável e responsiva em diferentes dispositivos.
 
 - JavaScript: Implementamos a funcionalidade do slideshow e dos botões de navegação utilizando JavaScript para criar uma experiência interativa e fluida.
-
-## Projeto
-![Texto Alternativo](site.png)
 
 ##LINK
 https://legendary-mandazi-547880.netlify.app
